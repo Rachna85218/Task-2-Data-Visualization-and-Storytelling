@@ -1,9 +1,5 @@
 # Task-2-Data-Visualization-and-Storytelling
 
-Perfect! Here's the updated **`README.md`** with your **LinkedIn link** added to the footer for personal branding and professionalism.
-
----
-
 ## 🛍️ Sales Forecasting – Power BI Dashboard
 
 ### 📁 Dataset
